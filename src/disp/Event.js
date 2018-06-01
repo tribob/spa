@@ -12,7 +12,6 @@ export class Event {
      * Event Constructor
      */
   constructor (options = {}) {
-
     this[evtname] = {}
     // auto add event for function config
     Object.keys(options).forEach((key) => {
