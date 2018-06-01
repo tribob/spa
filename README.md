@@ -1,5 +1,7 @@
 # spa
 
+[![Coverage Status](https://coveralls.io/repos/github/tribob/spa/badge.svg?branch=master)](https://coveralls.io/github/tribob/spa?branch=master)
+
 ## Build Setup
 
 ``` bash
