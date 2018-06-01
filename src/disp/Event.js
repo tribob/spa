@@ -13,6 +13,7 @@ export class Event {
      */
   constructor (options = {}) {
     x = 3;
+    
 
     this[evtname] = {}
     // auto add event for function config
